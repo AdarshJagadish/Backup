@@ -1,0 +1,20 @@
+#posts{
+    padding: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    background-color: rgb(230, 197, 208);
+}
+
+.card {
+    width: 23%;
+    margin: 11px;
+}
+
+.card-body{
+    background-color: rgb(194, 230, 230);
+}
+
+.card-title{
+    color: rgb(240, 16, 146);
+}
